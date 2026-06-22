@@ -89,9 +89,12 @@ This project is developed based on [Animatediff](https://github.com/guoyww/Anima
 ## BibTeX
 
 ```bibtex
-@article{gu2024advanced,
-  title={Advanced Video Inpainting Using Optical Flow-Guided Efficient Diffusion},
-  author={Gu, Bohai and Luo, Hao and Guo, Song and Dong, Peiran},
-  journal={arXiv preprint arXiv:2412.00857},
-  year={2024}
+@misc{gu2025coherentvideoinpaintingusing,
+      title={Coherent Video Inpainting Using Optical Flow-Guided Efficient Diffusion}, 
+      author={Bohai Gu and Hao Luo and Song Guo and Peiran Dong and Qihua Zhou},
+      year={2025},
+      eprint={2412.00857},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2412.00857}, 
 }
